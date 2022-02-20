@@ -1,11 +1,13 @@
 ## WEBページ
 
+株式会社TECHのWEBページ
+
 <img width="1470" alt="スクリーンショット 2022-02-05 11 05 03" src="https://user-images.githubusercontent.com/86700967/152624743-b1adbfb1-1a10-47f8-bfd8-73e16b55dd28.png">
 
 <img width="1475" alt="スクリーンショット 2022-02-05 11 05 14" src="https://user-images.githubusercontent.com/86700967/152624748-55829493-6002-4f4d-8c62-f5d8e0abe52e.png">
 
 ## 作成した目的
-スクールの課題として取り組みました。これまでに習ったHTMLのタグを復習するためにHTMLだけのWebページを作成しました。。
+スクールの課題として取り組みました。これまでに習ったHTMLのタグを復習するためにHTMLだけのWebページを作成しました。
 
 ## 使用技術
 フロントエンド
